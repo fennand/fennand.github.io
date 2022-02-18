@@ -54,7 +54,7 @@ h1:hover {
 
 @keyframes color {
     100% {
-        background-color: #4791d0;
+        background-color: #ffccff;
     }
 }
 
@@ -102,4 +102,20 @@ h1:hover {
 .fa-github {
     background: black;
     color: white;
+}
+
+.column1 {
+    float: left;
+    padding: 5px;
+    width: 50%;
+}
+
+.row1 {
+    display: flex;
+}
+
+.contact {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
 }
